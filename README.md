@@ -1,2 +1,4 @@
 # hello-world
-This is a start of GitHub(Just another repository)
+
+Hi man:
+I am fine. I don't know what I am doing.
